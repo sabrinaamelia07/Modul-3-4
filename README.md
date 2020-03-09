@@ -27,5 +27,9 @@
 #![AltText](https://github.com/sabrinaamelia07/Modul-3-4/blob/master/l5m4.PNG "Tigabelas")
 # Empatbelas
 #![AltText](https://github.com/sabrinaamelia07/Modul-3-4/blob/master/l4m4.PNG "Empatbelas")
+# Enambelas
+#![AltText](https://github.com/sabrinaamelia07/Modul-3-4/blob/master/lat.buku.PNG "Enambelas")
+# Tujuhbelas
+#![AltText](https://github.com/sabrinaamelia07/Modul-3-4/blob/master/panggil.PNG "Tujuhbelas")
 # Limabelas
 #![AltText](https://github.com/sabrinaamelia07/Modul-3-4/blob/master/tugasm4.PNG "Limabelas")
